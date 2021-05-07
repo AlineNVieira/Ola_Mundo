@@ -1,2 +1,2 @@
-# Ola_Mundo
- Repositório Curso em Vídeo
+# Olá, Mundo!
+ Repositório Curso em Vídeo, Professor Guanabara
